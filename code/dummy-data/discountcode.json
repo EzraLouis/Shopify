@@ -1,0 +1,1802 @@
+[
+	{
+		"code": "JTH24PMQ6VL",
+		"created_at": "2024-02-08 16:00:11",
+		"updated_at": "2021-09-16 16:52:44",
+		"id": 548903257,
+		"price_rule_id": 850949760364,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "MLI97WWZ1MQ",
+		"created_at": "2023-06-26 13:22:26",
+		"updated_at": "2024-02-28 02:43:50",
+		"id": 410155729,
+		"price_rule_id": 139065322450,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "WMH53CIQ1WZ",
+		"created_at": "2022-09-13 16:35:14",
+		"updated_at": "2024-03-07 13:30:19",
+		"id": 689630382,
+		"price_rule_id": 881792544616,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "YJW69RBG1PM",
+		"created_at": "2021-12-24 11:13:45",
+		"updated_at": "2024-06-30 11:08:31",
+		"id": 173274109,
+		"price_rule_id": 533287647717,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "GFW59VEU1CN",
+		"created_at": "2022-08-26 17:25:56",
+		"updated_at": "2022-01-18 10:51:10",
+		"id": 314480297,
+		"price_rule_id": 854520087377,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CES67CQH6NV",
+		"created_at": "2021-11-19 15:09:43",
+		"updated_at": "2023-08-24 16:24:17",
+		"id": 895202526,
+		"price_rule_id": 382643276206,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "DHW73DJJ6JF",
+		"created_at": "2023-02-25 12:32:38",
+		"updated_at": "2023-11-08 03:46:46",
+		"id": 598719523,
+		"price_rule_id": 242513989190,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "WIZ14CUG1RQ",
+		"created_at": "2021-08-15 08:00:50",
+		"updated_at": "2023-05-25 01:04:42",
+		"id": 358227956,
+		"price_rule_id": 141848776220,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "DLW61TPL1LE",
+		"created_at": "2021-08-06 07:11:31",
+		"updated_at": "2022-09-22 04:22:06",
+		"id": 225247186,
+		"price_rule_id": 676646056331,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "SWQ67IKY7HP",
+		"created_at": "2022-01-15 03:09:42",
+		"updated_at": "2023-08-01 20:31:37",
+		"id": 641922199,
+		"price_rule_id": 561910741173,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HPY17WMO6MU",
+		"created_at": "2024-02-04 02:02:27",
+		"updated_at": "2024-05-04 19:12:50",
+		"id": 798081148,
+		"price_rule_id": 169569577897,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "NAW08NVC7ZC",
+		"created_at": "2024-02-12 00:06:42",
+		"updated_at": "2021-10-17 21:38:41",
+		"id": 218278797,
+		"price_rule_id": 348605061516,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "YPV27QLH8JD",
+		"created_at": "2021-11-27 21:44:22",
+		"updated_at": "2023-11-20 14:24:31",
+		"id": 603656560,
+		"price_rule_id": 309566365392,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "DBI06HKV3TQ",
+		"created_at": "2024-06-20 02:21:01",
+		"updated_at": "2022-05-11 14:17:45",
+		"id": 317603474,
+		"price_rule_id": 299310916358,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "VBK98GXI6ML",
+		"created_at": "2024-06-24 06:11:16",
+		"updated_at": "2022-06-08 06:51:29",
+		"id": 556589893,
+		"price_rule_id": 399605984446,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "DYF09PEO0FR",
+		"created_at": "2024-06-03 09:05:14",
+		"updated_at": "2023-12-21 23:37:01",
+		"id": 137378641,
+		"price_rule_id": 561802996379,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ZCQ57UKN5HY",
+		"created_at": "2022-11-10 16:22:32",
+		"updated_at": "2022-01-28 22:53:33",
+		"id": 665097170,
+		"price_rule_id": 244002522184,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "SSE81VSS1CD",
+		"created_at": "2023-03-18 12:20:13",
+		"updated_at": "2023-06-27 21:40:24",
+		"id": 770765793,
+		"price_rule_id": 206725781498,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "SJQ29ZNH3BP",
+		"created_at": "2023-04-14 08:59:09",
+		"updated_at": "2023-08-07 16:16:04",
+		"id": 508701183,
+		"price_rule_id": 342234424731,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "OAJ72HOQ4HM",
+		"created_at": "2022-07-20 22:59:19",
+		"updated_at": "2024-02-24 14:09:25",
+		"id": 483480316,
+		"price_rule_id": 351768402392,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RFS60NFN4IS",
+		"created_at": "2023-02-18 09:04:53",
+		"updated_at": "2024-04-29 02:37:37",
+		"id": 351821985,
+		"price_rule_id": 560485480756,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "YRL74RCV1LW",
+		"created_at": "2022-08-15 02:21:09",
+		"updated_at": "2022-04-28 12:38:18",
+		"id": 164606377,
+		"price_rule_id": 740354095019,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CZC36EDG3DW",
+		"created_at": "2023-04-15 19:18:41",
+		"updated_at": "2024-02-20 16:16:28",
+		"id": 838331533,
+		"price_rule_id": 280720287157,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HEB64TQV9SC",
+		"created_at": "2022-05-19 08:23:39",
+		"updated_at": "2023-01-16 10:28:20",
+		"id": 313920892,
+		"price_rule_id": 499472385043,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CQZ70TYQ3VH",
+		"created_at": "2024-07-02 18:46:59",
+		"updated_at": "2023-07-30 00:12:06",
+		"id": 770348244,
+		"price_rule_id": 631848831413,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ZWZ21JIG3TH",
+		"created_at": "2024-05-03 11:04:59",
+		"updated_at": "2021-12-15 23:11:23",
+		"id": 759024959,
+		"price_rule_id": 847460476300,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "OVD51SFS9IT",
+		"created_at": "2022-10-07 21:28:48",
+		"updated_at": "2021-11-03 08:51:37",
+		"id": 374073796,
+		"price_rule_id": 771838482558,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "LQM07VPN3UC",
+		"created_at": "2021-10-14 21:21:20",
+		"updated_at": "2023-07-07 04:48:37",
+		"id": 786308757,
+		"price_rule_id": 807566116730,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ARB66TWX9CI",
+		"created_at": "2021-09-19 04:54:02",
+		"updated_at": "2022-02-01 16:45:28",
+		"id": 948076375,
+		"price_rule_id": 590382050235,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BDR23GHW4OH",
+		"created_at": "2021-11-11 16:54:14",
+		"updated_at": "2022-04-25 11:48:38",
+		"id": 193862524,
+		"price_rule_id": 314585582262,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "PYP11SDM6ZK",
+		"created_at": "2022-06-17 10:33:47",
+		"updated_at": "2023-08-22 07:21:51",
+		"id": 828168795,
+		"price_rule_id": 295858026150,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "AUP46WEY2OE",
+		"created_at": "2022-05-10 21:24:06",
+		"updated_at": "2021-08-03 06:19:00",
+		"id": 656553856,
+		"price_rule_id": 915193297733,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "NLL80FRG1JF",
+		"created_at": "2021-08-11 04:03:27",
+		"updated_at": "2024-02-15 09:58:11",
+		"id": 269981198,
+		"price_rule_id": 286960943145,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "JXP52HCS4UF",
+		"created_at": "2024-04-24 04:42:18",
+		"updated_at": "2022-08-14 17:45:07",
+		"id": 816339043,
+		"price_rule_id": 176315705809,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "GDQ08AVR5FK",
+		"created_at": "2021-12-27 06:07:21",
+		"updated_at": "2021-08-15 19:00:41",
+		"id": 650672440,
+		"price_rule_id": 602234271883,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ISX57TDG6HQ",
+		"created_at": "2022-08-04 11:18:01",
+		"updated_at": "2022-10-04 20:05:51",
+		"id": 704414915,
+		"price_rule_id": 327823358043,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "XOQ76VNU4UV",
+		"created_at": "2023-06-18 05:08:44",
+		"updated_at": "2024-02-26 14:55:23",
+		"id": 409249084,
+		"price_rule_id": 597790492425,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "POS55GTY8LP",
+		"created_at": "2024-07-11 01:22:17",
+		"updated_at": "2022-01-14 17:08:44",
+		"id": 633312270,
+		"price_rule_id": 868582804267,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HWO93THJ7NF",
+		"created_at": "2021-11-26 21:05:46",
+		"updated_at": "2023-09-28 02:19:05",
+		"id": 831949365,
+		"price_rule_id": 239139531234,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "EHW67HJV6KR",
+		"created_at": "2024-01-08 09:58:12",
+		"updated_at": "2022-12-21 13:50:46",
+		"id": 666531948,
+		"price_rule_id": 962218799381,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "AYX58CLM7QM",
+		"created_at": "2023-09-18 12:39:22",
+		"updated_at": "2022-02-18 07:37:27",
+		"id": 205139475,
+		"price_rule_id": 799515043222,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BQP98TAQ5EL",
+		"created_at": "2022-12-21 12:48:39",
+		"updated_at": "2022-08-13 06:41:50",
+		"id": 154389988,
+		"price_rule_id": 323147515424,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ULL52QLQ8OF",
+		"created_at": "2021-07-28 01:51:42",
+		"updated_at": "2024-05-17 12:30:14",
+		"id": 416218787,
+		"price_rule_id": 750413181694,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "TDI19ZQU1FW",
+		"created_at": "2023-09-18 11:57:27",
+		"updated_at": "2023-05-04 11:52:29",
+		"id": 780304015,
+		"price_rule_id": 600642161150,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "JHO60HFT0MZ",
+		"created_at": "2022-04-30 02:57:17",
+		"updated_at": "2024-04-14 10:40:36",
+		"id": 737755220,
+		"price_rule_id": 821364368449,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KCJ72CEI3KY",
+		"created_at": "2022-04-11 04:35:31",
+		"updated_at": "2023-03-18 03:32:24",
+		"id": 516869453,
+		"price_rule_id": 510034799296,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "EHA04RTH7TM",
+		"created_at": "2023-07-05 21:09:02",
+		"updated_at": "2023-02-07 01:50:26",
+		"id": 152607886,
+		"price_rule_id": 482395680028,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "MFQ41XUJ6MD",
+		"created_at": "2023-06-25 11:35:11",
+		"updated_at": "2023-12-26 20:03:32",
+		"id": 128521994,
+		"price_rule_id": 858973739261,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "XBV01ISO6IO",
+		"created_at": "2024-07-16 19:22:11",
+		"updated_at": "2022-03-15 12:57:41",
+		"id": 642997226,
+		"price_rule_id": 775537507297,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "QLS29IIX5UF",
+		"created_at": "2023-02-25 10:30:21",
+		"updated_at": "2022-05-22 01:12:19",
+		"id": 838477711,
+		"price_rule_id": 429548830535,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RPW24SKT2TX",
+		"created_at": "2022-01-06 01:38:07",
+		"updated_at": "2022-06-30 11:10:08",
+		"id": 365046311,
+		"price_rule_id": 261477336525,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RQD76GLZ5YM",
+		"created_at": "2022-03-16 15:22:15",
+		"updated_at": "2024-03-06 08:06:43",
+		"id": 181625105,
+		"price_rule_id": 330583747484,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CUY37SBJ2CW",
+		"created_at": "2021-12-18 09:41:16",
+		"updated_at": "2022-04-10 00:23:50",
+		"id": 737404309,
+		"price_rule_id": 967913103868,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "PYU19OMK4NS",
+		"created_at": "2022-01-23 06:03:57",
+		"updated_at": "2022-03-18 16:38:29",
+		"id": 499343574,
+		"price_rule_id": 502649395623,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BOB18UYT2GY",
+		"created_at": "2023-03-15 05:10:34",
+		"updated_at": "2023-01-15 23:49:46",
+		"id": 179497571,
+		"price_rule_id": 286315287090,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CTO68VBR6CP",
+		"created_at": "2024-02-20 00:35:58",
+		"updated_at": "2022-01-16 23:25:44",
+		"id": 944098370,
+		"price_rule_id": 593310348240,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BIC53VJL2EN",
+		"created_at": "2023-02-21 02:17:43",
+		"updated_at": "2021-11-08 11:37:24",
+		"id": 892302710,
+		"price_rule_id": 210783822619,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "GOR15MXG3YW",
+		"created_at": "2023-12-14 06:58:53",
+		"updated_at": "2023-11-22 01:46:36",
+		"id": 775524803,
+		"price_rule_id": 363382391783,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "GZY10WHK1KR",
+		"created_at": "2023-12-17 08:32:00",
+		"updated_at": "2021-08-12 06:59:56",
+		"id": 669781102,
+		"price_rule_id": 535879455306,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "MDN15KMH7FJ",
+		"created_at": "2024-04-04 12:21:19",
+		"updated_at": "2023-02-04 11:13:24",
+		"id": 973987213,
+		"price_rule_id": 352361157244,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "FGF11QKS3UT",
+		"created_at": "2024-05-16 16:31:01",
+		"updated_at": "2022-11-27 18:54:49",
+		"id": 832362978,
+		"price_rule_id": 789920614733,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RSC57MNA9FS",
+		"created_at": "2022-06-09 02:46:54",
+		"updated_at": "2023-03-08 01:11:26",
+		"id": 797928574,
+		"price_rule_id": 138754273105,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ESP56LBA6RD",
+		"created_at": "2024-06-20 04:41:01",
+		"updated_at": "2023-10-10 17:25:35",
+		"id": 797569351,
+		"price_rule_id": 693842497385,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "UPL77OWI2VN",
+		"created_at": "2021-12-16 01:40:57",
+		"updated_at": "2023-04-20 05:01:46",
+		"id": 817230348,
+		"price_rule_id": 827802077131,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "UWK78WJR1OU",
+		"created_at": "2024-03-09 03:07:16",
+		"updated_at": "2022-03-02 19:56:30",
+		"id": 687829975,
+		"price_rule_id": 409071698290,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HXH25NWV8XI",
+		"created_at": "2023-07-08 05:08:33",
+		"updated_at": "2024-01-17 09:23:50",
+		"id": 914466115,
+		"price_rule_id": 899617777537,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "WZV48GDT6MG",
+		"created_at": "2023-06-29 00:12:36",
+		"updated_at": "2024-06-18 18:26:57",
+		"id": 987902680,
+		"price_rule_id": 610519072234,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "UPS68TUB8RM",
+		"created_at": "2022-06-06 23:31:36",
+		"updated_at": "2021-11-23 03:17:57",
+		"id": 360118208,
+		"price_rule_id": 941652091634,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KVO33LKB3RM",
+		"created_at": "2022-01-05 05:49:21",
+		"updated_at": "2021-08-27 02:53:23",
+		"id": 314543960,
+		"price_rule_id": 873647848573,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "DBR86EEU9LR",
+		"created_at": "2024-01-27 13:03:49",
+		"updated_at": "2023-08-02 19:56:35",
+		"id": 637307449,
+		"price_rule_id": 157725606347,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "LBF87ZBE7PM",
+		"created_at": "2024-01-28 15:01:57",
+		"updated_at": "2023-12-28 09:33:27",
+		"id": 151750340,
+		"price_rule_id": 621512589201,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KXY99JMW7TR",
+		"created_at": "2022-04-02 04:00:22",
+		"updated_at": "2023-03-06 01:59:17",
+		"id": 793697381,
+		"price_rule_id": 455092372117,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KWK25VMI7SR",
+		"created_at": "2024-05-19 20:19:49",
+		"updated_at": "2022-12-16 11:04:17",
+		"id": 350876206,
+		"price_rule_id": 464421839351,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BOX42HTY0HY",
+		"created_at": "2022-09-27 21:44:44",
+		"updated_at": "2022-09-25 17:33:14",
+		"id": 170324674,
+		"price_rule_id": 101579190585,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ZRL54TAV2LY",
+		"created_at": "2022-05-09 23:11:36",
+		"updated_at": "2022-05-15 20:24:33",
+		"id": 334860695,
+		"price_rule_id": 745610701128,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "YOC57HDK6EK",
+		"created_at": "2022-01-04 22:21:31",
+		"updated_at": "2023-11-22 10:25:25",
+		"id": 446010856,
+		"price_rule_id": 638553749147,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "MFV68YZF3MJ",
+		"created_at": "2022-03-08 01:58:23",
+		"updated_at": "2022-02-09 15:30:09",
+		"id": 202014227,
+		"price_rule_id": 758302779586,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "UCX12GYR0RM",
+		"created_at": "2024-06-20 06:12:01",
+		"updated_at": "2022-11-08 10:28:51",
+		"id": 390777402,
+		"price_rule_id": 323301766348,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KOS29KCL8QU",
+		"created_at": "2021-10-08 04:37:49",
+		"updated_at": "2023-07-10 21:32:51",
+		"id": 678558279,
+		"price_rule_id": 638791378967,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RMK31HTY5OB",
+		"created_at": "2023-06-16 20:24:49",
+		"updated_at": "2022-02-18 17:09:16",
+		"id": 488688266,
+		"price_rule_id": 397952110738,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RLC41VFL1UE",
+		"created_at": "2022-04-11 14:27:59",
+		"updated_at": "2021-08-20 00:48:24",
+		"id": 189972662,
+		"price_rule_id": 134739396042,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ETV70LXK3YG",
+		"created_at": "2023-07-12 23:53:24",
+		"updated_at": "2024-03-21 04:13:38",
+		"id": 118983761,
+		"price_rule_id": 774174823710,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "XMB57TUB8VO",
+		"created_at": "2024-05-14 08:53:25",
+		"updated_at": "2021-09-14 20:49:53",
+		"id": 864397183,
+		"price_rule_id": 214075822277,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "YNM36TQE2RZ",
+		"created_at": "2021-09-30 09:12:20",
+		"updated_at": "2023-02-05 05:16:34",
+		"id": 353078800,
+		"price_rule_id": 783344620982,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "QHI44ITL1PI",
+		"created_at": "2021-12-01 21:59:52",
+		"updated_at": "2022-04-21 23:45:58",
+		"id": 968438170,
+		"price_rule_id": 135896717050,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "XOS67WMV7WA",
+		"created_at": "2023-04-23 02:23:35",
+		"updated_at": "2024-02-27 11:14:42",
+		"id": 694133571,
+		"price_rule_id": 663989677136,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KRT75CXX2CY",
+		"created_at": "2024-04-09 05:01:52",
+		"updated_at": "2022-05-09 20:56:44",
+		"id": 510321238,
+		"price_rule_id": 308815520973,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "WNV83DUG2BA",
+		"created_at": "2022-03-01 15:47:04",
+		"updated_at": "2022-08-08 03:34:07",
+		"id": 146131508,
+		"price_rule_id": 232552280390,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "FRW18RHX8AL",
+		"created_at": "2024-05-05 05:38:00",
+		"updated_at": "2023-08-03 13:29:10",
+		"id": 938859750,
+		"price_rule_id": 504062102518,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "LFG17RYQ5FK",
+		"created_at": "2022-12-03 00:48:54",
+		"updated_at": "2022-10-05 23:47:03",
+		"id": 193618757,
+		"price_rule_id": 859641573723,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "PIE38CRF4QL",
+		"created_at": "2022-03-12 08:38:33",
+		"updated_at": "2023-07-01 15:50:34",
+		"id": 913230035,
+		"price_rule_id": 244400008618,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "MZC40SJE9QJ",
+		"created_at": "2024-04-14 07:07:29",
+		"updated_at": "2022-07-14 12:23:32",
+		"id": 487064770,
+		"price_rule_id": 444304702695,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CGI05VED2CU",
+		"created_at": "2023-06-21 18:24:11",
+		"updated_at": "2022-03-03 02:01:13",
+		"id": 846123101,
+		"price_rule_id": 169696789154,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CSA49CKN3YI",
+		"created_at": "2023-08-10 20:43:49",
+		"updated_at": "2022-01-31 16:45:29",
+		"id": 495223623,
+		"price_rule_id": 418455605615,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "TXL92EWU5DE",
+		"created_at": "2022-10-17 04:47:07",
+		"updated_at": "2024-06-09 15:49:03",
+		"id": 317653737,
+		"price_rule_id": 580729108153,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "XGR22SMF3IN",
+		"created_at": "2023-11-24 01:52:55",
+		"updated_at": "2024-03-28 04:15:16",
+		"id": 408017466,
+		"price_rule_id": 686417251256,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ECD92YWD5UP",
+		"created_at": "2023-11-25 06:06:33",
+		"updated_at": "2021-10-11 16:50:57",
+		"id": 260658534,
+		"price_rule_id": 674591086276,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "IDJ54ZDU6VZ",
+		"created_at": "2023-10-08 19:00:50",
+		"updated_at": "2023-06-08 15:38:58",
+		"id": 791624666,
+		"price_rule_id": 852238759093,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "JIA66ASQ4EC",
+		"created_at": "2022-07-21 17:59:25",
+		"updated_at": "2023-08-22 07:56:46",
+		"id": 201563341,
+		"price_rule_id": 837611445178,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "UIQ22RDI5QP",
+		"created_at": "2022-03-24 17:10:02",
+		"updated_at": "2022-09-05 06:18:48",
+		"id": 380514221,
+		"price_rule_id": 463690348375,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "GDE41WUG2OW",
+		"created_at": "2024-07-01 19:53:21",
+		"updated_at": "2022-06-06 12:58:16",
+		"id": 693826198,
+		"price_rule_id": 854510213607,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "XYX64LLQ1RC",
+		"created_at": "2021-12-28 16:14:31",
+		"updated_at": "2023-12-08 23:58:29",
+		"id": 561279786,
+		"price_rule_id": 254661512370,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "TDE21UTL4VD",
+		"created_at": "2022-09-04 01:18:25",
+		"updated_at": "2023-04-11 02:12:23",
+		"id": 218206903,
+		"price_rule_id": 994608319049,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BSX88BXZ7AI",
+		"created_at": "2022-06-20 16:42:00",
+		"updated_at": "2023-12-11 19:11:33",
+		"id": 594229412,
+		"price_rule_id": 633591302294,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "TZP87ZGK7OB",
+		"created_at": "2022-12-10 12:37:25",
+		"updated_at": "2023-03-08 05:29:39",
+		"id": 771627462,
+		"price_rule_id": 720120666967,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HMC41DMW6QU",
+		"created_at": "2022-07-20 05:07:20",
+		"updated_at": "2023-04-20 08:00:33",
+		"id": 987548916,
+		"price_rule_id": 913866453369,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "JKK94EFY6GQ",
+		"created_at": "2022-02-05 06:38:21",
+		"updated_at": "2023-09-05 08:55:39",
+		"id": 244404830,
+		"price_rule_id": 962040896822,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "EJP01LIY9VI",
+		"created_at": "2023-12-27 15:05:25",
+		"updated_at": "2024-04-02 06:14:38",
+		"id": 267158516,
+		"price_rule_id": 591035723134,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "EZT06CQO6XN",
+		"created_at": "2023-09-22 04:54:07",
+		"updated_at": "2022-08-31 15:48:55",
+		"id": 522160398,
+		"price_rule_id": 427117255190,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HET26PPP3UP",
+		"created_at": "2021-11-08 18:06:54",
+		"updated_at": "2024-02-02 04:05:51",
+		"id": 114461393,
+		"price_rule_id": 818435628058,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "WSR26OLH3ZQ",
+		"created_at": "2021-10-24 17:58:31",
+		"updated_at": "2022-03-22 08:15:51",
+		"id": 357887992,
+		"price_rule_id": 551293576761,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "YIN64TND0YU",
+		"created_at": "2021-10-25 09:23:07",
+		"updated_at": "2022-05-01 19:06:14",
+		"id": 433658147,
+		"price_rule_id": 318069591328,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "WSD45JQT6FG",
+		"created_at": "2024-04-09 13:12:23",
+		"updated_at": "2024-05-18 17:38:46",
+		"id": 262025729,
+		"price_rule_id": 314545528217,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "EZD69SKJ5XM",
+		"created_at": "2024-02-29 06:49:49",
+		"updated_at": "2023-05-14 00:13:15",
+		"id": 475719619,
+		"price_rule_id": 467668091656,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "WUP62RTF5MO",
+		"created_at": "2024-06-28 07:25:14",
+		"updated_at": "2023-10-08 21:13:56",
+		"id": 582685474,
+		"price_rule_id": 389136824976,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BUN79VFO5IN",
+		"created_at": "2022-04-07 21:08:57",
+		"updated_at": "2023-06-28 04:18:31",
+		"id": 638900657,
+		"price_rule_id": 506794768657,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "LLU28AOG5IT",
+		"created_at": "2024-05-05 17:33:30",
+		"updated_at": "2023-01-14 03:28:46",
+		"id": 774107533,
+		"price_rule_id": 445787334334,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "JSU38UKG3UQ",
+		"created_at": "2023-07-15 09:44:55",
+		"updated_at": "2022-07-02 17:43:28",
+		"id": 644651027,
+		"price_rule_id": 480036996041,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "UMU88SWV8OH",
+		"created_at": "2022-01-07 10:33:00",
+		"updated_at": "2022-05-23 12:25:00",
+		"id": 747858216,
+		"price_rule_id": 380159747671,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CLL40BTP4MI",
+		"created_at": "2023-11-12 14:34:58",
+		"updated_at": "2024-04-14 15:20:47",
+		"id": 172224896,
+		"price_rule_id": 496667806273,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KDX62KVF1XQ",
+		"created_at": "2022-09-13 18:40:00",
+		"updated_at": "2023-06-14 09:07:28",
+		"id": 620124570,
+		"price_rule_id": 206056925067,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BCQ42QHY1JS",
+		"created_at": "2023-08-08 03:31:50",
+		"updated_at": "2021-11-09 20:28:26",
+		"id": 374559747,
+		"price_rule_id": 334854227217,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "FBP89BAY2LL",
+		"created_at": "2023-05-02 09:53:57",
+		"updated_at": "2021-07-24 15:50:45",
+		"id": 648133010,
+		"price_rule_id": 707430016491,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KRO78OFI1SN",
+		"created_at": "2023-11-10 23:52:41",
+		"updated_at": "2022-05-19 12:00:28",
+		"id": 458698868,
+		"price_rule_id": 777362454206,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "UWE88XSU8FC",
+		"created_at": "2022-12-05 01:36:31",
+		"updated_at": "2022-10-23 14:21:01",
+		"id": 542893875,
+		"price_rule_id": 511999069613,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ABV28CSB5GM",
+		"created_at": "2023-01-23 10:12:41",
+		"updated_at": "2023-03-15 18:49:19",
+		"id": 154315206,
+		"price_rule_id": 255718991102,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "QRT63WLQ1HT",
+		"created_at": "2022-08-26 23:08:08",
+		"updated_at": "2021-11-26 22:47:45",
+		"id": 835906125,
+		"price_rule_id": 340813911120,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "OPX10JCW1EA",
+		"created_at": "2022-10-30 23:05:56",
+		"updated_at": "2024-07-18 10:35:04",
+		"id": 217242636,
+		"price_rule_id": 971923836052,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "MGP86PMG1SU",
+		"created_at": "2022-03-26 18:53:35",
+		"updated_at": "2024-03-02 20:31:53",
+		"id": 682917060,
+		"price_rule_id": 917950082224,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "GMV55UHU8XT",
+		"created_at": "2021-10-07 12:05:05",
+		"updated_at": "2021-09-03 16:12:33",
+		"id": 367845930,
+		"price_rule_id": 764818046702,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CAN72RWQ3PE",
+		"created_at": "2024-04-08 21:53:10",
+		"updated_at": "2022-06-14 14:54:57",
+		"id": 768031001,
+		"price_rule_id": 701933642343,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "PQV34OFQ4LN",
+		"created_at": "2023-08-15 07:41:28",
+		"updated_at": "2023-09-28 19:58:50",
+		"id": 475598993,
+		"price_rule_id": 459835890721,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "MRR17PRU1EY",
+		"created_at": "2023-03-31 11:26:23",
+		"updated_at": "2023-08-03 03:37:32",
+		"id": 957797505,
+		"price_rule_id": 156607194621,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "OOS46IHT6TB",
+		"created_at": "2023-07-26 19:02:12",
+		"updated_at": "2023-10-22 08:23:54",
+		"id": 406737520,
+		"price_rule_id": 121603470882,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "VVA64TVJ5PT",
+		"created_at": "2023-05-30 00:10:35",
+		"updated_at": "2023-01-04 00:26:09",
+		"id": 868131284,
+		"price_rule_id": 194831149383,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KUL70LMN1ZW",
+		"created_at": "2023-05-10 18:19:36",
+		"updated_at": "2024-03-31 09:39:33",
+		"id": 561474494,
+		"price_rule_id": 601688701837,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RJP68TUT7AC",
+		"created_at": "2024-02-03 03:50:16",
+		"updated_at": "2021-10-22 12:06:08",
+		"id": 322519174,
+		"price_rule_id": 865295420373,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "VEU58YHL6IK",
+		"created_at": "2024-01-19 20:56:13",
+		"updated_at": "2023-03-27 21:19:48",
+		"id": 473180945,
+		"price_rule_id": 792961425709,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "EMD16YVL3PM",
+		"created_at": "2022-04-18 05:09:22",
+		"updated_at": "2022-09-06 15:45:52",
+		"id": 730539862,
+		"price_rule_id": 603174600037,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KOR48QKO1CX",
+		"created_at": "2022-09-05 19:29:03",
+		"updated_at": "2023-02-19 01:45:08",
+		"id": 861450143,
+		"price_rule_id": 217303414475,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ZBF37MWK8XD",
+		"created_at": "2023-08-02 16:46:20",
+		"updated_at": "2021-10-13 23:53:06",
+		"id": 260301120,
+		"price_rule_id": 741479272222,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "QWH46NOO6KS",
+		"created_at": "2022-10-27 00:30:13",
+		"updated_at": "2024-04-30 20:54:07",
+		"id": 527551220,
+		"price_rule_id": 639942633502,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HCM27XNM3EL",
+		"created_at": "2022-03-14 20:47:12",
+		"updated_at": "2022-04-19 00:18:37",
+		"id": 955141030,
+		"price_rule_id": 870369948412,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "PGY71WRQ6VS",
+		"created_at": "2021-12-02 16:58:36",
+		"updated_at": "2022-06-30 15:24:10",
+		"id": 548962042,
+		"price_rule_id": 650897387277,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BCP10PNF6OS",
+		"created_at": "2023-06-24 09:57:46",
+		"updated_at": "2022-11-18 04:12:50",
+		"id": 478200879,
+		"price_rule_id": 981466454988,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "JUU68LGT8YF",
+		"created_at": "2023-02-17 20:25:36",
+		"updated_at": "2024-02-06 23:58:08",
+		"id": 163614761,
+		"price_rule_id": 555631344922,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "QDU97WLT1TZ",
+		"created_at": "2022-04-28 03:18:14",
+		"updated_at": "2023-03-21 08:41:44",
+		"id": 149595498,
+		"price_rule_id": 793663323578,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "GQA71MMV1ED",
+		"created_at": "2024-05-02 16:50:16",
+		"updated_at": "2022-05-14 11:07:34",
+		"id": 881955715,
+		"price_rule_id": 487278063343,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ZIN73SKF2XQ",
+		"created_at": "2022-01-23 18:51:49",
+		"updated_at": "2023-06-17 13:43:18",
+		"id": 377559631,
+		"price_rule_id": 463397511218,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RRE53LDM2DO",
+		"created_at": "2024-01-17 02:02:39",
+		"updated_at": "2022-11-28 19:36:37",
+		"id": 471594992,
+		"price_rule_id": 871427694749,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "IKO98UYY7OW",
+		"created_at": "2022-02-22 13:33:16",
+		"updated_at": "2024-07-10 12:14:57",
+		"id": 575480056,
+		"price_rule_id": 345237029033,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ARI48ZCL2CW",
+		"created_at": "2023-05-28 14:26:27",
+		"updated_at": "2024-06-25 12:20:07",
+		"id": 248253067,
+		"price_rule_id": 539643832157,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "XAD69IXY4BU",
+		"created_at": "2022-06-02 13:42:48",
+		"updated_at": "2024-02-26 16:36:40",
+		"id": 552554051,
+		"price_rule_id": 139620093947,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "TMC10EGI7RI",
+		"created_at": "2021-09-29 11:16:01",
+		"updated_at": "2021-10-06 13:27:26",
+		"id": 567420590,
+		"price_rule_id": 216975053896,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RRY38IKB1MC",
+		"created_at": "2023-05-14 03:26:50",
+		"updated_at": "2023-01-27 01:09:43",
+		"id": 888229034,
+		"price_rule_id": 311943867104,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "WNR13MYI3YJ",
+		"created_at": "2023-11-12 03:33:19",
+		"updated_at": "2022-05-18 15:53:50",
+		"id": 748328371,
+		"price_rule_id": 164530868503,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "OJF83XJD9LN",
+		"created_at": "2022-06-27 21:18:36",
+		"updated_at": "2023-11-25 21:42:51",
+		"id": 489676683,
+		"price_rule_id": 566988511549,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "GJS73RMT2SC",
+		"created_at": "2023-03-18 16:21:51",
+		"updated_at": "2024-04-09 23:26:16",
+		"id": 921919095,
+		"price_rule_id": 842623363670,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "IGM22LHB0UY",
+		"created_at": "2022-01-01 04:53:08",
+		"updated_at": "2024-05-21 17:31:52",
+		"id": 985896228,
+		"price_rule_id": 850584042009,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "UPF34KIR8TQ",
+		"created_at": "2023-05-19 13:12:36",
+		"updated_at": "2021-10-20 22:58:02",
+		"id": 917604090,
+		"price_rule_id": 726933426949,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "IEX56GNU0UZ",
+		"created_at": "2024-01-21 00:49:36",
+		"updated_at": "2023-10-27 12:21:49",
+		"id": 409138571,
+		"price_rule_id": 906288232438,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ULG93STM0UZ",
+		"created_at": "2022-06-29 11:24:36",
+		"updated_at": "2023-03-16 00:07:47",
+		"id": 776174642,
+		"price_rule_id": 285556255075,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "WYP17ZWS8ET",
+		"created_at": "2022-11-27 16:11:27",
+		"updated_at": "2024-04-08 13:33:52",
+		"id": 662892054,
+		"price_rule_id": 846444696756,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "OUQ80SDR5BK",
+		"created_at": "2021-10-10 03:01:44",
+		"updated_at": "2023-12-21 03:45:06",
+		"id": 107032804,
+		"price_rule_id": 874031497082,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "TLX38PLX1YS",
+		"created_at": "2024-06-14 10:09:42",
+		"updated_at": "2023-11-15 21:58:23",
+		"id": 966750805,
+		"price_rule_id": 363998096660,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "IAI82SXY5WW",
+		"created_at": "2023-08-29 18:43:51",
+		"updated_at": "2023-05-08 19:06:40",
+		"id": 931369559,
+		"price_rule_id": 569832159902,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "LEW48PHJ7VQ",
+		"created_at": "2022-02-06 10:23:25",
+		"updated_at": "2023-04-25 21:17:49",
+		"id": 764362445,
+		"price_rule_id": 241605335601,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "JYM42SGU5WD",
+		"created_at": "2021-12-23 00:37:59",
+		"updated_at": "2023-09-29 12:25:01",
+		"id": 560691107,
+		"price_rule_id": 739077581394,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BQJ54SJC4MV",
+		"created_at": "2024-06-15 09:10:31",
+		"updated_at": "2024-04-22 21:27:45",
+		"id": 930506820,
+		"price_rule_id": 298365135626,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RKE57DHN7OW",
+		"created_at": "2022-01-10 13:14:36",
+		"updated_at": "2022-05-31 21:49:32",
+		"id": 503557375,
+		"price_rule_id": 938231573870,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "NRF66YJU5PR",
+		"created_at": "2024-04-13 08:23:40",
+		"updated_at": "2023-08-14 22:13:16",
+		"id": 502709219,
+		"price_rule_id": 195556383498,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "COD43HTV8QD",
+		"created_at": "2023-06-29 10:53:15",
+		"updated_at": "2022-02-20 21:57:10",
+		"id": 550594949,
+		"price_rule_id": 481810651378,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CWB22XMY7EL",
+		"created_at": "2021-11-17 08:58:17",
+		"updated_at": "2024-06-14 21:52:43",
+		"id": 158157835,
+		"price_rule_id": 157918248497,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "NEK81TNO2OK",
+		"created_at": "2023-02-10 00:59:30",
+		"updated_at": "2022-05-09 08:01:10",
+		"id": 535013429,
+		"price_rule_id": 431837992606,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HSE13PXH8HG",
+		"created_at": "2022-04-21 12:07:20",
+		"updated_at": "2022-06-21 14:59:58",
+		"id": 577873358,
+		"price_rule_id": 673320940937,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "VRO82DDS0RQ",
+		"created_at": "2022-03-16 17:52:00",
+		"updated_at": "2022-08-04 00:14:23",
+		"id": 905480146,
+		"price_rule_id": 100425156319,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KHY24WDG6HE",
+		"created_at": "2021-11-25 14:02:22",
+		"updated_at": "2022-07-07 01:11:28",
+		"id": 400728595,
+		"price_rule_id": 276083116628,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "GBS44QFN7JJ",
+		"created_at": "2022-02-13 21:19:57",
+		"updated_at": "2022-01-05 01:31:56",
+		"id": 451515820,
+		"price_rule_id": 601341593232,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "XGU97BDK1IM",
+		"created_at": "2023-10-18 12:49:14",
+		"updated_at": "2023-06-12 21:26:49",
+		"id": 888182420,
+		"price_rule_id": 374928717330,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "NQQ96TJJ1HB",
+		"created_at": "2022-02-08 00:49:41",
+		"updated_at": "2022-05-03 01:17:55",
+		"id": 234459597,
+		"price_rule_id": 144228877958,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "SQU14QNO3KX",
+		"created_at": "2024-05-04 05:42:41",
+		"updated_at": "2021-07-30 21:09:18",
+		"id": 156488039,
+		"price_rule_id": 770523083223,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KBF03DME8FX",
+		"created_at": "2023-06-10 02:08:00",
+		"updated_at": "2024-04-23 15:27:03",
+		"id": 323382280,
+		"price_rule_id": 455821322446,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "CYS44QJE5KM",
+		"created_at": "2024-02-04 08:49:03",
+		"updated_at": "2022-02-25 04:15:59",
+		"id": 120397870,
+		"price_rule_id": 366629359458,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "AEA29PJE3QC",
+		"created_at": "2023-04-11 03:44:15",
+		"updated_at": "2023-07-06 10:02:06",
+		"id": 512122578,
+		"price_rule_id": 928813901434,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "OAZ66JZD6ZS",
+		"created_at": "2023-02-13 20:28:11",
+		"updated_at": "2022-08-11 10:28:56",
+		"id": 866326677,
+		"price_rule_id": 940952382700,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HRQ43KGP2GM",
+		"created_at": "2022-07-10 09:50:33",
+		"updated_at": "2022-12-28 06:55:16",
+		"id": 727767087,
+		"price_rule_id": 977955064705,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "NSQ74BGE4FB",
+		"created_at": "2024-02-26 11:22:00",
+		"updated_at": "2022-05-23 20:34:51",
+		"id": 433899648,
+		"price_rule_id": 485902592821,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ETW38LJH0JQ",
+		"created_at": "2022-12-05 11:29:20",
+		"updated_at": "2023-10-30 10:35:19",
+		"id": 869381380,
+		"price_rule_id": 462474391402,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "HWE78FPY8WF",
+		"created_at": "2022-02-26 23:56:42",
+		"updated_at": "2022-12-19 00:11:49",
+		"id": 789151510,
+		"price_rule_id": 634482862996,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "YJP69LRH2FP",
+		"created_at": "2023-05-24 14:18:31",
+		"updated_at": "2021-12-23 09:07:30",
+		"id": 496822991,
+		"price_rule_id": 260091285601,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "RJC19LCE2AF",
+		"created_at": "2024-02-29 01:01:41",
+		"updated_at": "2022-11-05 09:27:12",
+		"id": 986015099,
+		"price_rule_id": 755693874804,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "IZL33IKC4JC",
+		"created_at": "2024-02-22 03:32:56",
+		"updated_at": "2021-07-22 16:41:20",
+		"id": 394145312,
+		"price_rule_id": 381553296044,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KDY31QTP8WJ",
+		"created_at": "2023-10-22 09:02:47",
+		"updated_at": "2024-05-13 20:59:40",
+		"id": 633503213,
+		"price_rule_id": 483471143141,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "PDA78XQA7BT",
+		"created_at": "2022-12-12 23:47:30",
+		"updated_at": "2022-07-31 20:00:26",
+		"id": 285641780,
+		"price_rule_id": 347901869924,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "ESO40BUK3YN",
+		"created_at": "2023-06-10 11:08:35",
+		"updated_at": "2023-04-22 13:53:01",
+		"id": 469348000,
+		"price_rule_id": 359180133026,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "TGV37RBK5CH",
+		"created_at": "2023-10-25 05:13:04",
+		"updated_at": "2022-07-05 16:47:58",
+		"id": 206191003,
+		"price_rule_id": 528806560561,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "BAC71RKO7BO",
+		"created_at": "2022-06-02 09:55:28",
+		"updated_at": "2023-02-25 03:53:04",
+		"id": 876677394,
+		"price_rule_id": 479057832763,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "TJQ91BDK9GP",
+		"created_at": "2023-07-14 13:12:04",
+		"updated_at": "2022-10-23 20:16:13",
+		"id": 490760278,
+		"price_rule_id": 110508861231,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "KMX33CWE8HM",
+		"created_at": "2022-02-15 02:14:53",
+		"updated_at": "2022-06-12 22:13:42",
+		"id": 726194851,
+		"price_rule_id": 392507698396,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "FUI87IID5EZ",
+		"created_at": "2023-01-24 09:21:37",
+		"updated_at": "2023-09-22 07:07:19",
+		"id": 850263710,
+		"price_rule_id": 538368392459,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	}
+]

@@ -1,0 +1,5 @@
+django==5.0.3
+psycopg2-binary==2.9.9
+django-silk==5.1.0
+django-ninja
+django-ninja-simple-jwt
